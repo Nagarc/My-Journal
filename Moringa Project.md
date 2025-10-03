@@ -2,7 +2,8 @@
 ### A Micro Moringa Nursery with a Macro Impact  
 *Small contribution to my village/community*  — Nagarjuna C  
 
-![Moringa Plant]("images/title image.png", "Moringa Plant")
+![Moringa Plant](images/title%20image.png "Moringa Plant")
+
 
 ---
 
@@ -21,10 +22,13 @@ This approach aligns with the *Kaizen* philosophy—small, continuous improvemen
 This grassroots initiative started with just a few rows of Moringa saplings but is already touching lives. The philosophy: start with available resources and scale with support.  
 Progress begins wherever there is intent—small consistent steps accumulate into lasting transformation.
 
+![Growing Nursery](images/image2.jpeg "Nursery")
 ---
 
 ### Why Moringa? The Everyday Superplant  
 Moringa is a highly nutritious, low-maintenance plant offering multiple health benefits, especially beneficial in rural settings:
+
+![Growing Nursery](images/uses.png "Nursery")
 
 - **Nutrient-dense:** Rich in vitamins A, C, E, iron, and protein  
 - **Immune-boosting:** Enhances the body’s natural defenses  
