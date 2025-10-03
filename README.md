@@ -20,3 +20,8 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 - [Project Management Professional (Verify)](https://www.credly.com/badges/5a3dc7d7-b77f-4393-b61b-51036b916c8b/public_url)
 - Public Cloud: Azure, GCP, AWS
 - Process: ITIL Foundation
+## My Blogs 
+- 
+- [Data Quality] - 
+- [Digital thread ] (https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
+- 
