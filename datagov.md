@@ -6,6 +6,7 @@
 ### Introduction  
 Recent U.S. tariffs applied to remote, uninhabited places like Norfolk Island and Heard and McDonald Islands raised eyebrows—no population, no exports, yet tariffs applied. This curious case exposes how **bad data meets broad policy** and highlights the strategic nature of data governance.
 
+![Data Governance](images/datagov.png "Data Governance")
 ---
 
 ### The Curious Case: How Do You Tariff an Empty Island?
