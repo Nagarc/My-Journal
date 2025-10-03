@@ -1,6 +1,3 @@
-AI Generated! 
-
-***
 
 ## The Digital Thread: Reimagining Crew Management Systems for a Resilient Aviation Future
 
