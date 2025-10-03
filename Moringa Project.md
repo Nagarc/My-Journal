@@ -1,9 +1,8 @@
-## Giving Back to Society  
+## Giving Back to Society - Moringa Project
 ### A Micro Moringa Nursery with a Macro Impact  
 *Small contribution to my village/community*  — Nagarjuna C  
 
 ![Moringa Plant](images/title%20image.png "Moringa Plant")
-
 
 ---
 
