@@ -9,13 +9,15 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 
 ## Key Skills
 
+- Enterprise architecture
+- Data quality, governance, and compliance
 - Data strategy & enterprise architecture
 - Cloud data platforms: Azure, AWS, GCP
 - Data migration and modernization
 - Data modeling, integration, & metadata management
-- Data quality, governance, and compliance
 - Analytics and AI/ML enablement
 - Leadership, consulting, and thought leadership
+- Sustainability 
 
 ## Certifications
 
