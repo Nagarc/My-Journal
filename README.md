@@ -20,8 +20,15 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 - [Project Management Professional (Verify)](https://www.credly.com/badges/5a3dc7d7-b77f-4393-b61b-51036b916c8b/public_url)
 - Public Cloud: Azure, GCP, AWS
 - Process: ITIL Foundation
+
 ## My Blogs 
-- 
-- [Data Quality] - 
-- [Digital thread ] (https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
-- 
+- [AI Driven ETL] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/AIDrivenETL.md)
+- [Data Quality] (https://github.com/Nagarc/My-Journal/blob/main/Data%Quality.md)
+- [Digital thread - Reimagining Crew Management  ] (https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
+- [Ghost Islands Get Tariffs - data governance failure] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/datagov.md)
+- [Enterprise Architecture Drives Innovation] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/missingpiece.md)
+
+## Social Entrepreneurship - Give Back 
+
+-[A Micro Moringa Nursery with a Macro Impact] - (https://github.com/Nagarc/My-Journal/blob/main/giveback/Moringa%20Project.md)
+
