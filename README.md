@@ -2,6 +2,11 @@
 
 Experienced data consultant with 15+ years of expertise leading enterprise data architecture, cloud transformations, and AI-driven innovation. Adept at designing scalable architectures, implementing data governance frameworks, and aligning data strategies with business objectives. Proven consulting track record in healthcare, insurance, and banking—driving efficiency, modernization, and regulatory compliance.
 
+## My LinkedIn 
+
+-[Nagarjuna](https://www.linkedin.com/in/nagac/)
+
+
 ## Key Skills
 
 - Data strategy & enterprise architecture
