@@ -27,9 +27,11 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 - [Digital thread - Reimagining Crew Management  ] (https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
 - [Ghost Islands Get Tariffs - data governance failure] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/datagov.md)
 - [Enterprise Architecture Drives Innovation] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/missingpiece.md)
+- [Machine tells and man does] (/myblogs/machinetellsman.md)
 
 ## Social Entrepreneurship - Give Back 
 
+- [Banana Project ] - (https://github.com/Nagarc/My-Journal/blob/main/myblogs/Bananaproject.md)
 - [A Micro Moringa Nursery with a Macro Impact] - (https://github.com/Nagarc/My-Journal/blob/main/giveback/Moringa%20Project.md)
 - [DankuHolland] [in progress] - [Dank je wel, Nederland] - Social cultural exchange between Netherlands and India
 
