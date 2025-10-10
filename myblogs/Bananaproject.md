@@ -33,6 +33,4 @@ I would like to use small WhatsApp messages, YouTube short videos themed around 
 - **Original Taste:** I personally know what a naturally ripened banana tastes like. You have to experience it as I can’t explain how tasty naturally ripened bananas are.
 
 ***
-You can also viist for visually appealing blog
-
-[1](https://bananasntruth.wordpress.com)
+You can also viist for visually appealing blog [here](https://bananasntruth.wordpress.com)

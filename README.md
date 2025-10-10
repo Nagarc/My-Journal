@@ -22,12 +22,12 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 - Process: ITIL Foundation
 
 ## My Blogs 
-- [AI Driven ETL] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/AIDrivenETL.md)
-- [Data Quality] (https://github.com/Nagarc/My-Journal/blob/main/Data%Quality.md)
-- [Digital thread - Reimagining Crew Management  ] (https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
-- [Ghost Islands Get Tariffs - data governance failure] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/datagov.md)
-- [Enterprise Architecture Drives Innovation] (https://github.com/Nagarc/My-Journal/blob/main/myblogs/missingpiece.md)
-- [Machine tells and man does] (/myblogs/machinetellsman.md)
+- [AI Driven ETL](https://github.com/Nagarc/My-Journal/blob/main/myblogs/AIDrivenETL.md)
+- [Data Quality](https://github.com/Nagarc/My-Journal/blob/main/Data%Quality.md)
+- [Digital thread - Reimagining Crew Management  ](https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
+- [Ghost Islands Get Tariffs - data governance failure](https://github.com/Nagarc/My-Journal/blob/main/myblogs/datagov.md)
+- [Enterprise Architecture Drives Innovation](https://github.com/Nagarc/My-Journal/blob/main/myblogs/missingpiece.md)
+- [Machine tells and man does](/myblogs/machinetellsman.md)
 
 ## Social Entrepreneurship - Give Back 
 
