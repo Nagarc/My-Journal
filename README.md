@@ -31,7 +31,7 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 
 ## Social Entrepreneurship - Give Back 
 
-- [Banana Project ] - (https://github.com/Nagarc/My-Journal/blob/main/myblogs/Bananaproject.md)
-- [A Micro Moringa Nursery with a Macro Impact] - (https://github.com/Nagarc/My-Journal/blob/main/giveback/Moringa%20Project.md)
+- [Banana Project ](https://github.com/Nagarc/My-Journal/blob/main/myblogs/Bananaproject.md)
+- [A Micro Moringa Nursery with a Macro Impact](https://github.com/Nagarc/My-Journal/blob/main/giveback/Moringa%20Project.md)
 - [DankuHolland] [in progress] - [Dank je wel, Nederland] - Social cultural exchange between Netherlands and India
 
