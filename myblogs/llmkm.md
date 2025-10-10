@@ -1,7 +1,7 @@
 
 # Transforming Knowledge Management with LLMs
 
-![LLm Knowledge Management] (/images/llmkm.png"LLm Knowledge Management")
+![LLm Knowledge Management](images/llmkm.png "LLm Knowledge Management")
 
 **Revolutionizing the way we manage knowledge**  
 *How LLMs Can Transform Knowledge Management*  
