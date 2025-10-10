@@ -28,6 +28,7 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 - [Ghost Islands Get Tariffs - data governance failure](https://github.com/Nagarc/My-Journal/blob/main/myblogs/datagov.md)
 - [Enterprise Architecture Drives Innovation](https://github.com/Nagarc/My-Journal/blob/main/myblogs/missingpiece.md)
 - [Machine tells and man does](/myblogs/machinetellsman.md)
+- [Datamess 2 Datamesh](/myblogs/datamess2datamesh.md)
 
 ## Social Entrepreneurship - Give Back 
 
