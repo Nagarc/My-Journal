@@ -31,5 +31,5 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 ## Social Entrepreneurship - Give Back 
 
 - [A Micro Moringa Nursery with a Macro Impact] - (https://github.com/Nagarc/My-Journal/blob/main/giveback/Moringa%20Project.md)
-- [DankuHolland] [in progress] - (https://lovable.dev/projects/596e6fa3-60e5-44a3-9fd0-cd70d73aeda0)
+- [DankuHolland] [in progress] - [Dank je wel, Nederland]
 
