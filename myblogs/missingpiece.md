@@ -15,7 +15,7 @@ EA provides a structured framework to manage complexity, optimize resources, and
 
 Businesses today face rapid regulatory shifts, evolving customer expectations, and rising competitive pressure. Without adaptability, companies risk falling behind or becoming irrelevant. EA acts as a blueprint aligning business strategy with operational goals, fueling competitiveness, innovation, and agility.
 
-![EA](images/EApuzzle.png "EA")
+![EA](/images/EApuzzle.png "EA")
 ---
 
 ## 1. Managed Innovation: The Key to Sustainable Growth  
