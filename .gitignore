@@ -1,0 +1,32 @@
+# Firebase configuration (contains secrets)
+firebase-config.js
+.firebaserc
+firebase-debug.log
+firebase-debug.*.log
+
+# Firebase cache
+.firebase/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules (if using npm)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.log

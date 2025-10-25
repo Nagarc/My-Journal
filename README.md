@@ -1,3 +1,15 @@
+## 🌐 View the Web Interface
+
+Visit the interactive web version: [Open index.html](index.html)
+
+**Features:**
+- ✅ Offline support with Firebase integration
+- ✅ Responsive design
+- ✅ Real-time connection status
+- ✅ Graceful error handling
+
+📖 For Firebase setup instructions, see [FIREBASE_SETUP.md](FIREBASE_SETUP.md)
+
 ## About Me
 
 Experienced data consultant with 15+ years of expertise leading enterprise data architecture, cloud transformations, and AI-driven innovation. Adept at designing scalable architectures, implementing data governance frameworks, and aligning data strategies with business objectives. Proven consulting track record in healthcare, insurance, and banking—driving efficiency, modernization, and regulatory compliance.
