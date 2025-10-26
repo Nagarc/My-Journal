@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Can you combine all the above logically and give me consolidated document
-
-Certainly! Here is a consolidated document that combines key Dutch cultural values, persona-based daily etiquette, and simple rules for expats and immigrants into an easy-to-follow guide. This summary is ready for onboarding, orientation workshops, or as a practical reference for newcomers to Dutch society.
 
 ***
 
