@@ -2,13 +2,7 @@
 
 Visit the interactive web version: [Open index.html](index.html)
 
-**Features:**
-- ✅ Offline support with Firebase integration
-- ✅ Responsive design
-- ✅ Real-time connection status
-- ✅ Graceful error handling
 
-📖 For Firebase setup instructions, see [FIREBASE_SETUP.md](FIREBASE_SETUP.md)
 
 ## About Me
 
