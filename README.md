@@ -35,6 +35,7 @@ Experienced data consultant with 15+ years of expertise leading enterprise data 
 - Process: ITIL Foundation
 
 ## My Blogs 
+- [I built an AI agent that writes my aviation newsletter every morning](https://github.com/Nagarc/My-Journal/blob/main/myblogs/aviagent.md)
 - [AI Driven ETL](https://github.com/Nagarc/My-Journal/blob/main/myblogs/AIDrivenETL.md)
 - [Data Quality](https://github.com/Nagarc/My-Journal/blob/main/Data%Quality.md)
 - [Digital thread - Reimagining Crew Management  ](https://github.com/Nagarc/My-Journal/blob/main/Digital%20Thread.md)
