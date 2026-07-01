@@ -1,4 +1,4 @@
-# I built an AI agent that writes my aviation newsletter every morning
+# I built an AI agent that writes my aviation newsletter
 *By Nagarjuna C | AI Innovation, Multi-Agent Systems*
 
 ---
